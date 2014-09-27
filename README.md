@@ -1,4 +1,4 @@
-2015-Strategic-Plan (Super Rough Draft)
+2015-Strategic-Plan (Under Construction)
 ===================
 
 Our plan for 2015.
