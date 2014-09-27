@@ -10,7 +10,7 @@ This is who we are as a group.
 
 Here is what we want to get done this year.
 - Increase collaboration with other brigades.
-- Increase community outreach: booths at events, collaboration with non-profits, hold hack nights in surrounding areas (Roseville, Lincoln, etc).
+- Increase community outreach: booths at events, collaboration with non-profits, hold hack nights in surrounding areas (Roseville, Lincoln, etc), Davis Roots.
 - Increase member engagement: occasional "night out"/"beer night".
 
 Here is how we’re going to get there.
