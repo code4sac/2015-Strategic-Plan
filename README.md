@@ -27,12 +27,13 @@ _Here is how we’re going to do it:_
       Funding and long-term support
 - 15-30 minute hands-on workshops that teach very specific skills -> repeat every 2-3 months (so 5 or so standard lessons; OR lessons recorded and put online) 
 - Schools
-    - Univeristies
-     - Departments: Art and graphics; Computer Science; Public Health; Urban Architecture
-      - UCD: Child Family Institute for Innovation and Entrepreneuership; 
-      - Sac City:
-      - Sac State:
-    - High Schoools
+    Univeristies
+     Departments: Art and graphics; Computer Science; Public Health; Urban Architecture
+      UCD: Child Family Institute for Innovation and Entrepreneuership; 
+      Sac City:
+      Sac State:
+    High Schoools
+- Actionable Github issues items for every project
 
 ### Outcomes
 _Here's how we'll know we did it:_
