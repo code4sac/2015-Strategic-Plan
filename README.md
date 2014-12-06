@@ -20,6 +20,19 @@ _Our strategy needs to map to one or more of the [Code for America Principles fo
 _Here is how we’re going to do it:_
 - Host a hackathon with other brigades in the region.
 - Crash other brigades' meetups.
+- Actionable item for government (Robert, do these make sense?):
+    Standards for applications that could be adopted/deployed by government partners
+      Security
+      Explicit pipeline i.e. Code 4 Sac -> Robert -> Legal -> Copywriters -> Deployment
+      Funding and long-term support
+- 15-30 minute hands-on workshops that teach very specific skills -> repeat every 2-3 months (so 5 or so standard lessons; OR lessons recorded and put online) 
+- Schools
+    Univeristies
+     Departments: Art and graphics; Computer Science; Public Health; Urban Architecture
+      UCD: Child Family Institute for Innovation and Entrepreneuership; 
+      Sac City:
+      Sac State:
+    High Schoools
 
 ### Outcomes
 _Here's how we'll know we did it:_
