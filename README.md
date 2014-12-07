@@ -36,29 +36,24 @@ _Here is our team:_
 ###Collaboration
 
 ####With community organizations
-*Goals*
 - Better understand the needs of the community.
 - Facilitate technology projects by community organizations.
 
 ####With government partners
-*Goals*
 - Improve government perception of civic technology, and of Code for Sacramento.
 - Create a sustainable civic technology product lifecycle.
 
 ####With regional brigades
-*Goals*
 - Reduce redundancy.
 - Pool efforts.
 
 ###Outreach
-*Goals*
 - Better understand the needs and habits of the community.
 - Foster the adoption of useful technology within the community.
 - Serve as an educational resource for the community.
 - Find talented potential contributors.
 
 ###Engagement
-*Goals*
 - Retain talented contributors.
 - Prevent core-team burnout.
 - Increase brigade stability to improve our ability to deliver useful projects to the community.
