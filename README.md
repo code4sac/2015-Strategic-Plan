@@ -102,22 +102,27 @@ _Here is how we’re going to do it:_
 ## Outcomes
 _Things we should be able to say at the end of 2015:_
 ###Collaboration
+
 #### With community organizations
 - We engaged at least two community partners.
 - We delivered at least one project resulting from a collaboration with a community partner.
+
 #### With government partners
 - We regularly saw folks from our municipal sponsor at our meetups and events.
 - We engaged at least one new municipal sponsor.
 - TODO: More
+
 ####With regional brigades
 - We attended other brigade meetups, and invited members of other brigades to our meetups.
 - We delivered at least one project in collaboration with regional brigades.
 - We contributed to projects from other brigades.
 - We adapted at least one project from another brigade for Sacramento.
+
 ###Outreach
 - We engaged a group of "community beta testers" willing to provide community feedback on Code for Sacramento projects.
 - We held regular instructional sessions at meetups and hack nights.
 - We increased the quality, quantity, and diversity of our contributors.
+
 ###Engagement
 - We improved the number of meetups attended by an average contributor.
 - We increased the quality, quantity, and diversity of contributions to Code for Sacramento Github repos.
@@ -156,4 +161,4 @@ _Here's how much it will cost:_
 | Business Cards | $100.00 | annually | 1 | $100.00 |
 | Sub-total:	$800.00 |
 						
-GRAND TOTAL:	$3,879.00		
+####GRAND TOTAL:	$3,879.00		
