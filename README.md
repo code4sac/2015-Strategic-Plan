@@ -6,54 +6,154 @@ Our plan for 2015.
 ##Who We Are
 ###Group Description
 _This is who we are as a group._
-###Core Leadership Team
-_Here is our team:_
+- We're a group of civic-minded programmers, coders, designers, and extraordinary citizens. We work in partnership with government, non-profit, and technical partners to deploy technology to improve quality of life and increase citizen engagement with civic issues.
 
+_Who we are and what we do:_
+- We are commited volunteers.
+- We work to increase civic engagement.
+- We have a desire to learn and teach.
+- We take anyone who wants to help.
+- We aim to make it better to live in our city and state.
+- We value mutually-benficial and productive relationships with our partners.
+
+###Core Leadership Team (UNDER CONSTRUCTION)
+_Here is our team:_
+* Co-Captains: [Brandon](https://github.com/bpugh143) and [Jesse](https://github.com/jesserosato)
+* Storyteller + Data Wrangler: [Elizabeth](https://github.com/Elizabethcase)
+* Community Organizer: [Ash](https://github.com/roughani)
+* Delivery Lead: [Richard](https://github.com/rjulian)
+* Policy Evangelist: Joel
+* Government Liaison: Robert
+* Nonprofit Liaison: Matthew
+* TBD: Kari, Grant, Benny
+* Scribe: [YOUR NAME HERE!](mailto:hello@codeforsacramento.org)
+* Developer Evangelist: [YOUR NAME HERE!](mailto:hello@codeforsacramento.org)
+* Social Media Manager: [YOUR NAME HERE!](mailto:hello@codeforsacramento.org)
+* Event Organizer: [YOUR NAME HERE!](mailto:hello@codeforsacramento.org)
 
 ##What We Want to Do This Year
-_Our strategy needs to map to one or more of the [Code for America Principles for 21st Century Governments](http://www.codeforamerica.org/governments/principles/)._
-- Increase collaboration (CfA principles 5, 6, and 7)
-  - Other brigades
-      - Reduce redundancy, increase effect.
-  - Other non-profits.
-      - Get a better idea of the needs of the community, increase our reach into the community.
-  - Government
-    - Change government mindset about what we do (we're not here to tell them how to do their jobs).
-- Increase community outreach: booths at events, collaboration with non-profits, hold hack nights in surrounding areas (Roseville, Lincoln, etc), Davis Roots. (CfA principles 1 and 2)
-  - Outreach to 
-- Increase member engagement: occasional "night out"/"beer night". (CfA principles 1 and 2)
-  - Regular surveys about satisfaction with hack nights and events
 
-### Strategy and Tactics
+###Collaboration
+
+####With community organizations
+*Goals*
+- Better understand the needs of the community.
+- Facilitate technology projects by community organizations.
+
+####With government partners
+*Goals*
+- Improve government perception of civic technology, and of Code for Sacramento.
+- Create a sustainable civic technology product lifecycle.
+
+####With regional brigades
+*Goals*
+- Reduce redundancy.
+- Pool efforts.
+
+###Outreach
+*Goals*
+- Better understand the needs and habits of the community.
+- Foster the adoption of useful technology within the community.
+- Serve as an educational resource for the community.
+- Find talented potential contributors.
+
+###Engagement
+*Goals*
+- Retain talented contributors.
+- Prevent core-team burnout.
+- Increase brigade stability to improve our ability to deliver useful projects to the community.
+
+##Strategy and Tactics
 _Here is how we’re going to do it:_
-- Collaboration
-  - Brigades
-    - Host a hackathon with other brigades in the region.
-  - Non-profits
-    - Gather needs/project ideas from non-profits.
-    - If we have projects that need to get into the community, take it to non-profit partners.
-  - Government
-    - Reconnect with municipal sponsor. Encourage weekly participation by _any_ member of their staff.
+###Collaboration
+
+####With community organizations
+- Solicit needs and pitches from local community organizations.
+- Offer common-sense tech-oriented demos or talks to interested partners.
+
+####With government partners
+- Invite our municipal sponsor and any interested members of their team to attend a meetup.
+- TODO: MORE
+
+####With regional brigades
+- Host a hackathon with other brigades in the regions.
+- Collaborate on a regional project for [Code Across](http://www.codeforamerica.org/events/codeacross-2015/).
 - Crash other brigades' meetups.
-- Outreach
-  - Leverage other orgs outreach (government sponsor blogs, etc).
-  - College and community events booths
-  - ACM, other tech orgs, Girls Who Code type Orgs
-  - Speak at other meetups, have other meetups speak at our meetups.
-- Engagement
-  - Core team rotates responsibility for either bringing in a speaker, giving a talk, or having some other presentation.
-  - Hack nights are now collaboration meetings: lightning talks, pitches and standups, encourage remote collaboration.
-  - Core team check-ins fifteen minutes before Wednesday meetings, one hours core team meeetings before second saturday hack days.
-  - Second-Saturday hack days (Urban Hive?)
-  - Quarterly Code for Sac beer night open house (replaces that week's Wednesday meeting)
-    - Highlight local brewers/restaurants
-### Outcomes
-_Here's how we'll know we did it:_
 
-- 
-- 
-- 
+###Outreach
+- Invite community organization representatives to deliver lightning talks at meetups.
+- Promote a network effect with partners by boosting their work on our social and publishing platforms (and politely asking that they do the same for us).
+- Investigate hosting booths at community events. (TODO: What type of events?)
+- Invite/offer speakers from/to other other civic tech organizations, such as Girls Who Code.
+- Invite/offer speakers from/to other meetups and tech/design/data organizations (especially campus-based organizations).
+- Invite community organizations to pitch their needs at meetups.
+- Hold demo meetups in surrounding areas (Roseville, Lincoln, etc), Davis Roots.
 
-### Draft Budget
+###Engagement
+- Core team rotates responsibility for either bringing in a speaker, giving a talk, or having some other presentation.
+- At Wednesday meetups, focus on collaboration: lightning talks, pitches and standups, encourage remote collaboration.
+- Move Wednesday meetups back to 7:00 pm to allow people time to get off work.
+- Hold monthly Second-Saturday hack days (Urban Hive?) (TODO: times? provide lunch?)
+- Hold core team check-ins fifteen minutes before Wednesday meetings, and one hour core team meeetingss before hack days.
+- Conduct regular surveys about satisfaction with hack nights and events
+- Hold a quarterly Code for Sac open house. This event will replace that week's hack night.
+- Reach out to local businesses (brewers, restaurants, etc.) about providing food sponsorship for events, because well-fed contributors are happier contributors.
+
+## Outcomes
+_Things we should be able to say at the end of 2015:_
+###Collaboration
+#### With community organizations
+- We engaged at least two community partners.
+- We delivered at least one project resulting from a collaboration with a community partner.
+#### With government partners
+- We regularly saw folks from our municipal sponsor at our meetups and events.
+- We engaged at least one new municipal sponsor.
+- TODO: More
+####With regional brigades
+- We attended other brigade meetups, and invited members of other brigades to our meetups.
+- We delivered at least one project in collaboration with regional brigades.
+- We contributed to projects from other brigades.
+- We adapted at least one project from another brigade for Sacramento.
+###Outreach
+- We engaged a group of "community beta testers" willing to provide community feedback on Code for Sacramento projects.
+- We held regular instructional sessions at meetups and hack nights.
+- We increased the quality, quantity, and diversity of our contributors.
+###Engagement
+- We improved the number of meetups attended by an average contributor.
+- We increased the quality, quantity, and diversity of contributions to Code for Sacramento Github repos.
+- We received more positive responses to surveys about our meetups in fourh quarter than in the first.
+- We held on to our amazing core team.
+- We promoted local businesses, and they offered us their support.
+
+## Draft Budget
 _Here's how much it will cost:_
+###Hosting
+| Unit | Cost |	Frequency |	Quantity |	Budget |
+|------|------|-----------|----------|---------|
+| Domain Name: codeforsacramento.org	| $15.00 |	annually |	1 |	$15.00 |
+| Domain Name: codeforsac.org	| $15.00	| annually |	1 |	$15.00 |
+| Domain Name: code4sac.org |	$15.00 |	annually |	1	| $15.00 |		
+| Google Apps: one email account |	$50.00 |	annually |	1 |	$50.00 |	
+| Google Apps: Insightly CRM subscription	| $84.00 |	annually |	1	| $84.00 |	
+| Civic Apps Deployment: Amazon Web Services |	$100.00 |	monthly |	12 |	$1,200.00	|
+| Sub-total:	$1,379.00	|
 
+						
+####Food & Beverage
+| Unit | Cost |	Frequency |	Quantity |	Budget |
+|------|------|-----------|----------|---------|
+| Meetup Food	| $75.00 |	monthly |	12 |	$900.00	|
+| Snacks |	$10.00 |	weekly |	50 |	$500.00	|
+| Beverages |	$25.00 |	monthly	| 12 |	$300.00 |		
+| Sub-total:	$1,700.00	|	
+						
+####Promotional Materials
+| Unit | Cost |	Frequency |	Quantity |	Budget |
+|------|------|-----------|----------|---------|
+| Stickers | $100.00 | annually |	1 |	$100.00	|
+| T-Shirts | $300.00 | annually	| 1	| $300.00 |		
+| Banner/Signage | $300.00 | annually | 1 |	$300.00	|	
+| Business Cards | $100.00 | annually | 1 | $100.00 |
+| Sub-total:	$800.00 |
+						
+GRAND TOTAL:	$3,879.00		
