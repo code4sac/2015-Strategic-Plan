@@ -121,7 +121,7 @@ _Things we should be able to say at the end of 2015:_
 ###Engagement
 - We improved the number of meetups attended by an average contributor.
 - We increased the quality, quantity, and diversity of contributions to Code for Sacramento Github repos.
-- We received more positive responses to surveys about our meetups in fourh quarter than in the first.
+- We received more positive responses to surveys about our meetups in the fourth quarter than in the first.
 - We held on to our amazing core team.
 - We promoted local businesses, and they offered us their support.
 
