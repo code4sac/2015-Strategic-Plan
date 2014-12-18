@@ -42,6 +42,8 @@ _Here is our team:_
 ####With government partners
 - Improve government perception of civic technology, and of Code for Sacramento.
 - Create a sustainable civic technology product lifecycle.
+- Creat a memorandum of understanding with local government partners (i.e. SACOG, West Sacramento, Sacramento)
+-	Including a security policy -- what conditions do we need to meet?
 
 ####With regional brigades
 - Reduce redundancy.
