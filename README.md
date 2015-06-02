@@ -1,7 +1,8 @@
-2015-Strategic-Plan (Under Construction)
+2015-Strategic-Plan
 ===================
 
 Our plan for 2015.
+_Revised June 2015_
 
 ##Who We Are
 ###Group Description
@@ -12,8 +13,8 @@ _Who we are and what we do:_
 - We are commited volunteers.
 - We work to increase civic engagement.
 - We have a desire to learn and teach.
-- We take anyone who wants to help.
-- We aim to make it better to live in our city and state.
+- We welcome anyone who wants to help.
+- We aim to make life better in our city and state.
 - We value mutually-benficial and productive relationships with our partners.
 
 ###Core Leadership Team (UNDER CONSTRUCTION)
@@ -22,7 +23,7 @@ _Here is our team:_
 * Storyteller + Data Wrangler: [Elizabeth](https://github.com/Elizabethcase)
 * Community Organizer: [Ash](https://github.com/roughani)
 * Delivery Lead: [Richard](https://github.com/rjulian)
-* Policy Evangelist: Joel
+* Policy Evangelist: [Joel](https://github.com/joelrip)
 * Government Liaison: Robert
 * Nonprofit Liaison: Matthew
 * TBD: Kari, Grant, Benny
@@ -91,7 +92,7 @@ _Here is how we’re going to do it:_
 - At Wednesday meetups, focus on collaboration: lightning talks, pitches and standups, encourage remote collaboration.
 - Move Wednesday meetups back to 7:00 pm to allow people time to get off work.
 - Hold monthly Second-Saturday hack days (Urban Hive?) (TODO: times? provide lunch?)
-- Hold core team check-ins fifteen minutes before Wednesday meetings, and one hour core team meeetingss before hack days.
+- Hold core team check-ins fifteen minutes before Wednesday meetings, and one hour core team meetings before hack days.
 - Conduct regular surveys about satisfaction with hack nights and events
 - Hold a quarterly Code for Sac open house. This event will replace that week's hack night.
 - Reach out to local businesses (brewers, restaurants, etc.) about providing food sponsorship for events, because well-fed contributors are happier contributors.
@@ -134,28 +135,37 @@ _Here's how much it will cost:_
 |------|------|-----------|----------|---------|
 | Domain Name: codeforsacramento.org	| $15.00 |	annually |	1 |	$15.00 |
 | Domain Name: codeforsac.org	| $15.00	| annually |	1 |	$15.00 |
-| Domain Name: code4sac.org |	$15.00 |	annually |	1	| $15.00 |		
-| Google Apps: one email account |	$50.00 |	annually |	1 |	$50.00 |	
-| Google Apps: Insightly CRM subscription	| $84.00 |	annually |	1	| $84.00 |	
+| Domain Name: code4sac.org |	$15.00 |	annually |	1	| $15.00 |
+| Google Apps: one email account |	$50.00 |	annually |	1 |	$50.00 |
+| Google Apps: Insightly CRM subscription	| $84.00 |	annually |	1	| $84.00 |
 | Civic Apps Deployment: Amazon Web Services |	$100.00 |	monthly |	12 |	$1,200.00	|
-| Sub-total:	$1,379.00	|
+| Sub-total:	|	|	|	|	$1,379.00	|
+|-------------|	|	|	|-----------|
 
-						
 ####Food & Beverage
 | Unit | Cost |	Frequency |	Quantity |	Budget |
 |------|------|-----------|----------|---------|
 | Meetup Food	| $75.00 |	monthly |	12 |	$900.00	|
 | Snacks |	$10.00 |	weekly |	50 |	$500.00	|
-| Beverages |	$25.00 |	monthly	| 12 |	$300.00 |		
-| Sub-total:	$1,700.00	|	
-						
+| Beverages |	$25.00 |	monthly	| 12 |	$300.00 |
+| Sub-total:	|	|	|	|	$1,700.00	|
+|-------------|	|	|	|-----------|
+
+####Events
+| Unit | Cost |	Frequency |	Quantity |	Budget |
+|------|------|-----------|----------|---------|
+| National Day of Civic Hacking	| $ |	annually |	1 |	$	|
+| Sub-total:	|	|	|	|	$	|
+|-------------|	|	|	|-----------|
+
 ####Promotional Materials
 | Unit | Cost |	Frequency |	Quantity |	Budget |
 |------|------|-----------|----------|---------|
 | Stickers | $100.00 | annually |	1 |	$100.00	|
-| T-Shirts | $300.00 | annually	| 1	| $300.00 |		
-| Banner/Signage | $300.00 | annually | 1 |	$300.00	|	
+| T-Shirts | $300.00 | annually	| 1	| $300.00 |
+| Banner/Signage | $300.00 | annually | 1 |	$300.00	|
 | Business Cards | $100.00 | annually | 1 | $100.00 |
-| Sub-total:	$800.00 |
-						
-####GRAND TOTAL:	$3,879.00		
+| Sub-total:	|	|	|	|	  $800.00 |
+|-------------|	|	|	|-----------|
+
+####GRAND TOTAL:	$3,879.00
