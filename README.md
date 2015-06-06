@@ -137,9 +137,9 @@ _Here's how much it will cost:_
 | Item |	Budget |
 |------|---------|
 | Food & Beverages	| $2,500 |
-| Supplies	| $600 |
+| Supplies	|   $600 |
 | Meetings and Events |	$1,000 |
-| Swag |	$800 |
+| Swag |	  $800 |
 | Marketing	| $1,200 |
 | TOTAL:	|	$5,500	|
 
