@@ -2,6 +2,7 @@
 ===================
 
 Our plan for 2015.
+
 _Revised June 2015_
 
 ##Who We Are
@@ -15,15 +16,14 @@ _Who we are and what we do:_
 - We have a desire to learn and teach.
 - We welcome anyone who wants to help.
 - We aim to make life better in our city and state.
-- We value mutually-benficial and productive relationships with our partners.
+- We value mutually benficial and productive relationships with our partners.
 
-###Core Leadership Team (UNDER CONSTRUCTION)
+###Core Leadership Team
 _Here is our team:_
 * Co-Captains: [Brandon](https://github.com/bpugh143) and [Jesse](https://github.com/jesserosato)
-* Storyteller + Data Wrangler: [Elizabeth](https://github.com/Elizabethcase)
 * Community Organizer: [Ash](https://github.com/roughani)
 * Delivery Lead: [Richard](https://github.com/rjulian)
-* Policy Evangelist: [Joel](https://github.com/joelrip)
+* Policy Evangelist + Money Guy: [Joel](https://github.com/joelrip)
 * Government Liaison: Robert
 * Nonprofit Liaison: Matthew
 * TBD: Kari, Grant, Benny
@@ -31,6 +31,7 @@ _Here is our team:_
 * Developer Evangelist: [YOUR NAME HERE!](mailto:hello@codeforsacramento.org)
 * Social Media Manager: [YOUR NAME HERE!](mailto:hello@codeforsacramento.org)
 * Event Organizer: [YOUR NAME HERE!](mailto:hello@codeforsacramento.org)
+* Storyteller: [YOUR NAME HERE!](mailto:hello@codeforsacramento.org)
 
 ##What We Want to Do This Year
 
@@ -43,8 +44,9 @@ _Here is our team:_
 ####With government partners
 - Improve government perception of civic technology, and of Code for Sacramento.
 - Create a sustainable civic technology product lifecycle.
-- Creat a memorandum of understanding with local government partners (i.e. SACOG, West Sacramento, Sacramento)
+- Create a memorandum of understanding with local government partners (i.e. SACOG, West Sacramento, Sacramento)
 	- Including a security policy -- what conditions do we need to meet?
+- Forge a relationship with state government partners, leveraging our strategic location in Sacramento.
 
 ####With regional brigades
 - Reduce redundancy.
@@ -71,7 +73,7 @@ _Here is how we’re going to do it:_
 
 ####With government partners
 - Invite our municipal sponsor and any interested members of their team to attend a meetup.
-- TODO: MORE
+- Promote open data policies at the state and local level.
 
 ####With regional brigades
 - Host a hackathon with other brigades in the regions.
@@ -108,6 +110,7 @@ _Things we should be able to say at the end of 2015:_
 #### With government partners
 - We regularly saw folks from our municipal sponsor at our meetups and events.
 - We engaged at least one new municipal sponsor.
+- We engaged at least one state entity.
 - TODO: More
 
 ####With regional brigades
@@ -130,42 +133,14 @@ _Things we should be able to say at the end of 2015:_
 
 ## Draft Budget
 _Here's how much it will cost:_
-###Hosting
-| Unit | Cost |	Frequency |	Quantity |	Budget |
-|------|------|-----------|----------|---------|
-| Domain Name: codeforsacramento.org	| $15.00 |	annually |	1 |	$15.00 |
-| Domain Name: codeforsac.org	| $15.00	| annually |	1 |	$15.00 |
-| Domain Name: code4sac.org |	$15.00 |	annually |	1	| $15.00 |
-| Google Apps: one email account |	$50.00 |	annually |	1 |	$50.00 |
-| Google Apps: Insightly CRM subscription	| $84.00 |	annually |	1	| $84.00 |
-| Civic Apps Deployment: Amazon Web Services |	$100.00 |	monthly |	12 |	$1,200.00	|
-| Sub-total:	|	|	|	|	$1,379.00	|
-|-------------|	|	|	|-----------|
 
-####Food & Beverage
-| Unit | Cost |	Frequency |	Quantity |	Budget |
-|------|------|-----------|----------|---------|
-| Meetup Food	| $75.00 |	monthly |	12 |	$900.00	|
-| Snacks |	$10.00 |	weekly |	50 |	$500.00	|
-| Beverages |	$25.00 |	monthly	| 12 |	$300.00 |
-| Sub-total:	|	|	|	|	$1,700.00	|
-|-------------|	|	|	|-----------|
+| Item |	Budget |
+|------|---------|
+| Food & Beverages	| $2,500 |
+| Supplies	| $600 |
+| Meetings and Events |	$1,000 |
+| Swag |	$800 |
+| Marketing	| $1,200 |
+| TOTAL:	|	$5,500	|
 
-####Events
-| Unit | Cost |	Frequency |	Quantity |	Budget |
-|------|------|-----------|----------|---------|
-| National Day of Civic Hacking	| $ |	annually |	1 |	$	|
-| Sub-total:	|	|	|	|	$	|
-|-------------|	|	|	|-----------|
-
-####Promotional Materials
-| Unit | Cost |	Frequency |	Quantity |	Budget |
-|------|------|-----------|----------|---------|
-| Stickers | $100.00 | annually |	1 |	$100.00	|
-| T-Shirts | $300.00 | annually	| 1	| $300.00 |
-| Banner/Signage | $300.00 | annually | 1 |	$300.00	|
-| Business Cards | $100.00 | annually | 1 | $100.00 |
-| Sub-total:	|	|	|	|	  $800.00 |
-|-------------|	|	|	|-----------|
-
-####GRAND TOTAL:	$3,879.00
+Check out our [detailed budget with ongoing expenditure tracking](https://docs.google.com/spreadsheets/d/1MvGK5vOqrgntqJoU9j5j1zCmPvE9GKkn-HqnQeyb8K8/edit?usp=sharing).
