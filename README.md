@@ -140,8 +140,8 @@ _Here's how much it will cost:_
 | Supplies	|   $600 |
 | Meetings and Events |	$1,000 |
 | Swag |	  $800 |
-| Marketing	|   $600 |
-| Other - Hosting |   $600 |
+| Marketing	|   $500 |
+| Other - Hosting |   $700 |
 | TOTAL:	|	$5,500	|
 
 Check out our [detailed budget with ongoing expenditure tracking](https://docs.google.com/spreadsheets/d/1MvGK5vOqrgntqJoU9j5j1zCmPvE9GKkn-HqnQeyb8K8/edit?usp=sharing).
