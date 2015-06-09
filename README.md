@@ -23,12 +23,11 @@ _Here is our team:_
 * Co-Captains: [Brandon](https://github.com/bpugh143) and [Jesse](https://github.com/jesserosato)
 * Community Organizer: [Ash](https://github.com/roughani)
 * Delivery Lead: [Richard](https://github.com/rjulian)
+* Developer Evangelist: [Jason](https://github.com/jasonody)
 * Policy Evangelist + Money Guy: [Joel](https://github.com/joelrip)
 * Government Liaison: Robert
-* Nonprofit Liaison: Matthew
 * TBD: Kari, Grant, Benny
 * Scribe: [YOUR NAME HERE!](mailto:hello@codeforsacramento.org)
-* Developer Evangelist: [YOUR NAME HERE!](mailto:hello@codeforsacramento.org)
 * Social Media Manager: [YOUR NAME HERE!](mailto:hello@codeforsacramento.org)
 * Event Organizer: [YOUR NAME HERE!](mailto:hello@codeforsacramento.org)
 * Storyteller: [YOUR NAME HERE!](mailto:hello@codeforsacramento.org)
