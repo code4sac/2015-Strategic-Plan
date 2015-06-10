@@ -26,7 +26,7 @@ _Here is our team:_
 * Developer Evangelist: [Jason](https://github.com/jasonody)
 * Policy Evangelist + Money Guy: [Joel](https://github.com/joelrip)
 * Government Liaison: Robert
-* TBD: Kari, Grant, Benny
+* TBD: Kari, Grant, Benny, Joseph
 * Scribe: [YOUR NAME HERE!](mailto:hello@codeforsacramento.org)
 * Social Media Manager: [YOUR NAME HERE!](mailto:hello@codeforsacramento.org)
 * Event Organizer: [YOUR NAME HERE!](mailto:hello@codeforsacramento.org)
