@@ -11,12 +11,12 @@ _This is who we are as a group._
 - We're a group of civic-minded programmers, coders, designers, and extraordinary citizens. We work in partnership with government, non-profit, and technical partners to deploy technology to improve quality of life and increase citizen engagement with civic issues.
 
 _Who we are and what we do:_
-- We are commited volunteers.
+- We are committed volunteers.
 - We work to increase civic engagement.
 - We have a desire to learn and teach.
 - We welcome anyone who wants to help.
 - We aim to make life better in our city and state.
-- We value mutually benfecial and productive relationships with our partners.
+- We value mutually beneficial and productive relationships with our partners.
 
 ###Core Leadership Team
 _Here is our team:_
