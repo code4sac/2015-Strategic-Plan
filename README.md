@@ -135,11 +135,11 @@ _Here's how much it will cost:_
 
 | Item |	CfA Budget | Donations | Total |
 |------|-------------|-----------|-------|
-| Food & Beverages	| $2,950 | - | $2,950 |
-| Meetings and Events |	$500 | $500 | $1,000 |
-| Swag |	  $800 | - | $800 |
+| Food & Beverages	| $2,020 | - | $2,020 |
+| Meetings and Events |	$410 | $500 | $910 |
+| Swag |	  $700 | - | $700 |
 | Marketing	|   $50 | - | $50 |
 | Other - Hosting |   $700 | - | $700 |
-| TOTAL:	|	$5,000	| $500 | $5,500 |
+| TOTAL:	|	$3,880	| $500 | $4,380 |
 
 Check out our [detailed budget with ongoing expenditure tracking](https://docs.google.com/spreadsheets/d/1MvGK5vOqrgntqJoU9j5j1zCmPvE9GKkn-HqnQeyb8K8/edit?usp=sharing).
