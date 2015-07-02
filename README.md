@@ -11,12 +11,12 @@ _This is who we are as a group._
 - We're a group of civic-minded programmers, coders, designers, and extraordinary citizens. We work in partnership with government, non-profit, and technical partners to deploy technology to improve quality of life and increase citizen engagement with civic issues.
 
 _Who we are and what we do:_
-- We are commited volunteers.
+- We are committed volunteers.
 - We work to increase civic engagement.
 - We have a desire to learn and teach.
 - We welcome anyone who wants to help.
 - We aim to make life better in our city and state.
-- We value mutually benficial and productive relationships with our partners.
+- We value mutually beneficial and productive relationships with our partners.
 
 ###Core Leadership Team
 _Here is our team:_
@@ -133,13 +133,13 @@ _Things we should be able to say at the end of 2015:_
 ## Draft Budget
 _Here's how much it will cost:_
 
-| Item |	Budget |
-|------|---------|
-| Food & Beverages	| $2,950 |
-| Meetings and Events |	$1,000 |
-| Swag |	  $800 |
-| Marketing	|   $50 |
-| Other - Hosting |   $700 |
-| TOTAL:	|	$5,500	|
+| Item |	CfA Budget | Donations | Total |
+|------|-------------|-----------|-------|
+| Food & Beverages	| $2,020 | - | $2,020 |
+| Meetings and Events |	$410 | $500 | $910 |
+| Swag |	  $700 | - | $700 |
+| Marketing	|   $50 | - | $50 |
+| Other - Hosting |   $700 | - | $700 |
+| TOTAL:	|	$3,880	| $500 | $4,380 |
 
 Check out our [detailed budget with ongoing expenditure tracking](https://docs.google.com/spreadsheets/d/1MvGK5vOqrgntqJoU9j5j1zCmPvE9GKkn-HqnQeyb8K8/edit?usp=sharing).
